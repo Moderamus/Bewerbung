@@ -1,0 +1,10 @@
+C:\Users\alexa\source\repos\TicTacToe2.0\TicTacToe2.0\bin\Debug\TicTacToe2.0.exe.config
+C:\Users\alexa\source\repos\TicTacToe2.0\TicTacToe2.0\bin\Debug\TicTacToe2.0.exe
+C:\Users\alexa\source\repos\TicTacToe2.0\TicTacToe2.0\bin\Debug\TicTacToe2.0.pdb
+C:\Users\alexa\source\repos\TicTacToe2.0\TicTacToe2.0\obj\Debug\TicTacToe2.0.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\TicTacToe2.0\TicTacToe2.0\obj\Debug\TicTacToe2._0.Form1.resources
+C:\Users\alexa\source\repos\TicTacToe2.0\TicTacToe2.0\obj\Debug\TicTacToe2._0.Properties.Resources.resources
+C:\Users\alexa\source\repos\TicTacToe2.0\TicTacToe2.0\obj\Debug\TicTacToe2.0.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\TicTacToe2.0\TicTacToe2.0\obj\Debug\TicTacToe2.0.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\TicTacToe2.0\TicTacToe2.0\obj\Debug\TicTacToe2.0.exe
+C:\Users\alexa\source\repos\TicTacToe2.0\TicTacToe2.0\obj\Debug\TicTacToe2.0.pdb
