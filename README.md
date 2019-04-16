@@ -21,6 +21,7 @@ From here on theres only updates about my current projects and what I/m doing/di
 
 
 -17.04.2019- Rewrote my very first TicTacToe game from scratch and improved it by adding a winner check. Cleaned the code up a bit too.
+             You can find the .exe in the /bin/debug/ folder.
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------
