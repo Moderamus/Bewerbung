@@ -18,7 +18,7 @@ BewerbungGithub.exe was my very first C# application, uploaded on the 15th april
 From here on theres only updates about my current projects and what I/m doing/did in the past.
 
 -----------------------------------------------------------------------------------------------------------------------------------------
-
+-18.05.2019- Added a few math exercises. You can find them on https://www.w3resource.com/csharp-exercises/basic/index.php. Will update                  them the further I progress.
 
 -17.04.2019- Rewrote my very first TicTacToe game from scratch and improved it by adding a winner check. Cleaned the code up a bit too.
              You can find the .exe in the /bin/debug/ folder.
