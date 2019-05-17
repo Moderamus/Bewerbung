@@ -1,0 +1,96 @@
+using System;
+
+namespace Test_Learning
+{
+    class Program
+    {
+
+        
+
+        static void Main(string[] args)
+        {
+            double number1 = 3;
+            double number2 = 5;
+
+            //Aufgabe 1
+            Console.WriteLine("__________________");
+            Console.WriteLine("Hello, Alexandra Abramov");
+            //Aufgabe 2
+            Console.WriteLine("__________________");
+            Console.WriteLine(number1 + number2);
+            //Aufgabe 3
+            Console.WriteLine("__________________");
+            Console.WriteLine(number1 / number2);
+            //Aufgabe 4
+            Console.WriteLine("__________________");
+            Console.WriteLine(-1 + 4 * 6);
+            Console.WriteLine((35 + 5) % 7);
+            Console.WriteLine(14 + -4 * 6 / 11);
+            Console.WriteLine(2 + 15 / 6 * 1 - 7 % 2);
+            //Aufgabe 5
+            Console.WriteLine("__________________");
+            int num1, num2, temp;
+
+            Console.WriteLine("Input num1: ");
+            num1 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Input num2: ");
+            num2 = int.Parse(Console.ReadLine());
+
+            temp = num1;
+            num1 = num2;
+            num2 = temp;
+
+            Console.WriteLine(num1);
+            Console.WriteLine(num2);
+            //Aufgabe 6
+            Console.WriteLine("__________________");
+
+
+            int uno, dos, tres;
+            
+            Console.WriteLine("Input value for x: ");
+            uno = int.Parse(Console.ReadLine());
+            Console.WriteLine("Input value for y: ");
+            dos = int.Parse(Console.ReadLine());
+            Console.WriteLine("Input value for z: ");
+            tres = int.Parse(Console.ReadLine());
+
+            int result = uno * dos * tres;
+
+
+            Console.WriteLine(result);
+            //Aufgabe 7
+            Console.WriteLine("__________________");
+
+            int value1, value2;
+
+            Console.WriteLine("Enter value1: ");
+            value1 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter value2: ");
+            value2 = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("{0} + {1} = {2}", value1, value2, value1+value2);
+            Console.WriteLine("{0} - {1} = {2}", value1, value2, value1-value2);
+            Console.WriteLine("{0} * {1} = {2}", value1, value2, value1*value2);
+            Console.WriteLine("{0} / {1} = {2}", value1, value2, value1/value2);
+            Console.WriteLine("{0} mod {1} = {2}", value1, value2, value1%value2);
+            //Aufgabe 8
+            Console.WriteLine("__________________");
+
+            int var1;
+            int multi = 1;
+
+            Console.WriteLine("Pls input number to see table for: ");
+            var1 = int.Parse(Console.ReadLine());
+
+
+            while (multi <= 10)
+            {
+                Console.WriteLine("The table is: {0} * {1} = {2}", var1, multi, var1 * multi);
+                multi++;
+            }
+            
+            
+        }
+    }
+}
